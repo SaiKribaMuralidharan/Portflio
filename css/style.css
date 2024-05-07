@@ -340,12 +340,13 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   float: left;
   color: #000;
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 .info li .second-block {
   width: 60%;
   display: inline-block;
-  color: rgba(0, 0, 0, 0.5);
+  color: #181818;
+  font-weight: bold; 
 }
 
 .fh5co-social-icons {
